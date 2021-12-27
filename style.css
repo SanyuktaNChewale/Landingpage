@@ -1,0 +1,49 @@
+.content{
+
+}
+
+
+
+
+h5{
+	position: absolute;
+width: 423px;
+height: 270px;
+left: 90px;
+top: 305px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 75px;
+line-height: 119.5%;
+color: #000000;
+}
+
+h6{
+	position: absolute;
+width: 557px;
+height: 123px;
+left: 90px;
+top: 600px;
+font-family: Poly;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 119.5%;
+color: #000000;
+}
+
+.button1{
+	position: absolute;
+	width: 144px;
+	height: 30px;
+	left: 90px;
+	top: 750px;
+
+	font-family: Poly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 119.5%;
+    color: #FFFFFF;
+}
